@@ -1,9 +1,4 @@
 # Hi, I'm Youssef Hazem Elfaham 👋
-
-Welcome to my profile! I'm passionate about coding, technology, and connecting with like-minded individuals. Let's build something amazing together. 🚀
-
----
-
 ## 🌐 Connect with Me:
 <p align="left">
   <a href="https://twitter.com/yousef_elfaham" target="_blank">
