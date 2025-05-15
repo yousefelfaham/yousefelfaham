@@ -51,17 +51,6 @@
 - **ITI Trainee** (2024): Advanced coursework in ethical hacking, cloud virtualization, and network security  
 - **IEEE Volunteer** (PR Team): Strengthened communication and outreach initiatives  
 
----
-
-## 📌 GitHub Philosophy  
-> "Security is a process, not a product."  
-> – Bruce Schneier  
-
-🔹 **Active Projects:** Building tools for threat detection and network hardening  
-🔹 **Open Source:** Collaborating on cybersecurity repositories  
-🔹 **Always Learning:** Pursuing certifications (e.g., OSCP, CISSP)  
-
----
 
 ### 📫 Let's Connect!  
 Reach out for collaborations, security discussions, or opportunities:  
